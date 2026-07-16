@@ -29,7 +29,7 @@
   height: 105px;
 }
 
-.address{
+.address {
   display: flex;
   flex-direction: column;
   font-weight: 400;
